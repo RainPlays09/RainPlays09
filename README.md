@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Note-Taking App<br>🌱 I’m currently learning Typescript, JavaScript, and Kotlin
+🌱 I’m currently learning Typescript, JavaScript, and Kotlin
 
 
 # 💻 Tech Stack:
